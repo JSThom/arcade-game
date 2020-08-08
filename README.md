@@ -1,2 +1,2 @@
 # arcade-game
-Learning exercise in using the arcade library. Simple but fun.
+Learning exercise in using the arcade library. Simple but fun. Old school.
